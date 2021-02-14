@@ -1,4 +1,4 @@
-# Name shirofuwabin-pickup-requester
+# shirofuwabin-pickup-requester
 
 しろふわ便の注文をseleniumで自動化するプログラムです
 
